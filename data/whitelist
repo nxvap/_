@@ -251,14 +251,6 @@
     "type": "Giveaway",
     "expires": "21/11/2026"
   },
-  "goldsk10": {
-    "type": "Admin",
-    "expires": "29/08/2026"
-  },
-  "rusty_kitten3p0": {
-    "type": "Admin",
-    "expires": "24/08/2026"
-  },
   "flipschlag11": {
     "type": "Admin",
     "expires": null
@@ -285,11 +277,11 @@
   },
   "ezequiel23xd6": {
     "type": "Admin",
-    "expires": "27/08/2026"
+    "expires": "03/09/2026"
   },
   "smite6767": {
     "type": "Admin",
-    "expires": "27/08/2026"
+    "expires": "03/09/2026"
   },
   "samuelh06137": {
     "type": "Admin",
@@ -297,6 +289,6 @@
   },
   "thunderven0multra": {
     "type": "Admin",
-    "expires": "28/08/2026"
+    "expires": "03/09/2026"
   }
 }
