@@ -298,5 +298,9 @@
   "jeffersonsantana4920": {
     "type": "Admin",
     "expires": null
+  },
+  "afn_hebat": {
+    "type": "Admin",
+    "expires": "03/09/2026"
   }
 }
