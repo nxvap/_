@@ -314,5 +314,9 @@
   "jrk9235": {
     "type": "Booster",
     "expires": "15/09/2026"
+  },
+  "roblox_user_11007146564": {
+    "type": "Admin",
+    "expires": "01/09/2026 18:00"
   }
 }
