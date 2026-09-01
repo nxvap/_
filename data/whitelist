@@ -318,5 +318,9 @@
   "roblox_user_11007146564": {
     "type": "Admin",
     "expires": "02/09/2026"
+  },
+  "2d_k": {
+    "type": "Admin",
+    "expires": "16/09/2026"
   }
 }
