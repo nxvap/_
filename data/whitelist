@@ -350,5 +350,9 @@
   "jamma0776": {
     "type": "Admin",
     "expires": null
+  },
+  "satiiks_freeman": {
+    "type": "Admin",
+    "expires": "04/09/2026"
   }
 }
