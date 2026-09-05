@@ -291,10 +291,6 @@
     "type": "Admin",
     "expires": null
   },
-  "afn_hebat": {
-    "type": "Admin",
-    "expires": "03/09/2026"
-  },
   "lino200381": {
     "type": "Admin",
     "expires": null
