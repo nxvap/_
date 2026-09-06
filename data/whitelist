@@ -385,6 +385,6 @@
   },
   "bytebandit_ofici": {
     "type": "Admin",
-    "expires": "20/09/2026"
+    "expires": null
   }
 }
