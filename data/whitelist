@@ -366,5 +366,9 @@
   "dav332333": {
     "type": "Giveaway",
     "expires": "05/10/2026"
+  },
+  "kaiquegati124": {
+    "type": "Admin",
+    "expires": null
   }
 }
