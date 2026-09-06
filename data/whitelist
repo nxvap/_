@@ -331,10 +331,6 @@
     "type": "Admin",
     "expires": null
   },
-  "satiiks_freeman": {
-    "type": "Admin",
-    "expires": "03/09/2026"
-  },
   "amq1920": {
     "type": "Giveaway",
     "expires": "03/11/2026"
