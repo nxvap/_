@@ -430,5 +430,9 @@
   "mrzatan0stheheaven": {
     "type": "Admin",
     "expires": null
+  },
+  "mr_zatanostheheaven": {
+    "type": "Admin",
+    "expires": null
   }
 }
