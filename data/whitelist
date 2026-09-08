@@ -426,5 +426,9 @@
   "michipesecitos": {
     "type": "Admin",
     "expires": "28/09/2026"
+  },
+  "mr_zatanostheheaven true?": {
+    "type": "Admin",
+    "expires": null
   }
 }
