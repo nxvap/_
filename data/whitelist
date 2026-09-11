@@ -87,10 +87,6 @@
     "type": "Booster",
     "expires": "10/09/2026"
   },
-  "ladydeathrains": {
-    "type": "Admin",
-    "expires": null
-  },
   "marlon224806503": {
     "type": "Admin",
     "expires": "19/11/2026"
