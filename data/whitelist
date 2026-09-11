@@ -143,10 +143,6 @@
     "type": "Giveaway",
     "expires": "21/11/2026"
   },
-  "flipschlag11": {
-    "type": "Admin",
-    "expires": null
-  },
   "kenps_5": {
     "type": "Admin",
     "expires": null
