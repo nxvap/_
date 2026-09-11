@@ -107,10 +107,6 @@
     "type": "Admin",
     "expires": null
   },
-  "xinexiie": {
-    "type": "Admin",
-    "expires": "30/01/2027"
-  },
   "tictac_670": {
     "type": "Admin",
     "expires": "30/01/2027"
