@@ -59,10 +59,6 @@
     "type": "Admin",
     "expires": "30/01/2027"
   },
-  "matvei_aks": {
-    "type": "Admin",
-    "expires": null
-  },
   "excalibur9362": {
     "type": "Admin",
     "expires": "30/01/2027"
