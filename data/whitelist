@@ -123,10 +123,6 @@
     "type": "Admin",
     "expires": null
   },
-  "lino200381": {
-    "type": "Admin",
-    "expires": null
-  },
   "jrk9235": {
     "type": "Booster",
     "expires": "15/09/2026"
