@@ -247,10 +247,6 @@
     "type": "Admin",
     "expires": "14/09/2026"
   },
-  "bytebandit_ofici": {
-    "type": "Admin",
-    "expires": null
-  },
   "codexzep": {
     "type": "Admin",
     "expires": "13/09/2026"
