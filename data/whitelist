@@ -99,10 +99,6 @@
     "type": "Booster",
     "expires": "10/09/2026"
   },
-  "huntnels": {
-    "type": "Admin",
-    "expires": null
-  },
   "ladydeathrains": {
     "type": "Admin",
     "expires": null
