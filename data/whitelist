@@ -143,10 +143,6 @@
     "type": "Admin",
     "expires": null
   },
-  "domeofficial": {
-    "type": "Admin",
-    "expires": null
-  },
   "eee_v2e": {
     "type": "Booster",
     "expires": "21/09/2026"
