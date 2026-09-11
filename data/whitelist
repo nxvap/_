@@ -167,10 +167,6 @@
     "type": "Admin",
     "expires": null
   },
-  "boofawna2": {
-    "type": "Admin",
-    "expires": "20/04/2027"
-  },
   "eee_v2e": {
     "type": "Booster",
     "expires": "21/09/2026"
